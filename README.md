@@ -145,6 +145,8 @@ La primera versión consistió en una CNN entrenada únicamente para clasificar 
 | Validation Accuracy  | 53.31%            |
 | Validation Top-5     | 76.99%            |
 
+![eva](evaluacion.png)
+
 Aunque el modelo logró una precisión aceptable, presento dificultades para priorizar movimientos ganadores inmediatos y en algunos casos presentaba movimientos ilegales.
 
 #### Segundo modelo
